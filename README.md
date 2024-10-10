@@ -8,7 +8,7 @@ I am trying to play some Christmas music on YouTube, but I have no sound. There 
 
 Confirmed what user reported.
 
-- <b>Theory 1: Theory 1: The correct output device is not selected: Right clicked on the sound icon and opened sound settings. The sound page in settings showed “No output devices found”.</b>
+- <b>Theory 1: The correct output device is not selected: Right clicked on the sound icon and opened sound settings. The sound page in settings showed “No output devices found”.</b>
 
 - <b>Theory 1: Theory 2: The computer does not recognize the device: I went into the device manager and it showed a “High Definition Audio Device” and when I clicked on it, I got the message “The device is disabled” (Code 22). It also said “Click Enable Device to enable this device.”, but the “Enable Device” button was not active, so I clicked “Change Settings”, entered the Password for the admin account, and could now click “Enable Device”. I tested the audio and it is working like expected.</b>
 
